@@ -1,13 +1,12 @@
 # The Personal Book Manager
 
 ## Overview
-The Personal Book Manager is a web application for organizing, tracking, and managing your personal book collection. It allows users to add, edit, and view books, manage authentication, and provides a dashboard for statistics.
-
+The Personal Book Manager is a web application for organizing, tracking, and managing your personal book collection. It allows users to add, edit, and view books, manage authentication, and provides a dashboard 
 ## Features
 - User authentication (login, sign-up, logout)
 - Add, edit, and view books
-- Dashboard with statistics
-- Filtering and searching books
+- Dashboard 
+- Filtering books
 - Responsive UI
 
 ## Installation & Setup
