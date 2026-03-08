@@ -87,8 +87,3 @@ The-Personal-Book-Manager-main/
 
 ## License
 This project is licensed under the MIT License.
-#Deployed Link =vercel url link
-#env
-##MONGODB_URL=your mongodb url link 
-##SECRET_KEY=your secret key
-##PUBLIC_BASE_URL=
